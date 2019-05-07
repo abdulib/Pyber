@@ -1,5 +1,5 @@
 # Pyber
-Ride sharing data anlysis
+Ride sharing data analysis
 
 Our objective is to build a Bubble Plot that showcases the relationship between four key variables:
 - Average Fare ($) Per City
